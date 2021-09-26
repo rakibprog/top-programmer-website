@@ -1,0 +1,41 @@
+.header h1 {
+    color: #fff;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.header p {
+    width: 50%;
+    margin: auto;
+    text-align: justify;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    line-height: 30px;
+}
+
+.header {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.range {
+    color: #e7467f;
+}
+
+.programmer {
+    color: #e7467f;
+}
+
+.header img {
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+.logo {
+    text-align: center;
+}

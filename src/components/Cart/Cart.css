@@ -1,0 +1,21 @@
+.cart {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.cart-content h2 {
+    text-align: center;
+    color: #e7467f;
+    margin-bottom: 10px;
+}
+
+.cart-content h4 {
+    font-size: 20px;
+    text-align: left;
+}
+
+.cart-content p,
+strong {
+    font-size: 20px;
+    text-align: left;
+}

@@ -1,0 +1,14 @@
+.programmers-container {
+    display: grid;
+    grid-template-columns: 70% 20%;
+}
+
+.programmers-content {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.programmers-cart {
+    padding-left: 20px;
+}

@@ -1,0 +1,201 @@
+[{
+        "id": "614f5912fa0a391a8712eca4",
+        "index": 0,
+        "name": "Dennis Ritchie",
+        "creator": "C Programming  language",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-GqbDdU4zyQo/Uwjje48KzOI/AAAAAAAACG4/cblGVCdXbBY/s1600/Dennis+Ritchie.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+        "salary": 1000,
+        "designation": "Computer scientist",
+        "age": 50
+    },
+    {
+        "id": "614sdf0sd0a0a391a8712eca4",
+        "index": 1,
+        "name": "Bjarne Stroustrup",
+        "creator": "C++ Programming  language",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-vA6b9fnfJoI/UwjjqFOqmNI/AAAAAAAACHA/sEQMP00onaw/s1600/Bjarne+Stroustrup.jpg?ezimgfmt=rs:400x300/rscb1/ng:webp/ngcb1",
+        "salary": 1100,
+        "designation": "Computer scientist",
+        "age": 55
+    },
+    {
+        "id": "614f592s0s12fa0a391a8712eca4",
+        "index": 2,
+        "name": "James Gosling",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-XTVhSIzm6T8/UwjlCPAeONI/AAAAAAAACIA/_VEtLp5256o/s1600/James+Gosling.jpg?ezimgfmt=rs:317x320/rscb1/ng:webp/ngcb1",
+        "creator": " Java programming language",
+        "salary": 9000,
+        "designation": "Software Engineer",
+        "age": 40
+    },
+    {
+        "id": "614s45srf5912fa0a391a8712eca4",
+        "index": 3,
+        "name": "Linus Torvalds",
+        "creator": "Linux operating system",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-WFFYmpAjcbY/Uwjj4OJAi1I/AAAAAAAACHI/Q3IID-7Exao/s1600/Linus+Torvalds.jpeg?ezimgfmt=rs:337x400/rscb1/ng:webp/ngcb1",
+        "salary": 1500,
+        "designation": "Software Engineer",
+        "age": 38
+    },
+    {
+        "id": "614f5912s0ffa0a39ds1a8712eca4",
+        "index": 4,
+        "name": "Anders Hejlsberg",
+        "creator": "C# programming language ",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-F3kb76UMANk/Uwq6fhjIEuI/AAAAAAAACIY/thLBBgmOuwM/s1600/Anders+Hejlsberg.jpg?ezimgfmt=rs:292x400/rscb1/ng:webp/ngcb1",
+        "salary": 13000,
+        "designation": "Software Engineer",
+        "age": 60
+    },
+    {
+        "id": "614f5912fs5s23ra0a391a8712eca4",
+        "index": 5,
+        "name": "Tim Berners-Lee",
+        "creator": "World Wide Web",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/3.bp.blogspot.com/-r4Lw1v8wP3o/UwjkHcoKMcI/AAAAAAAACHQ/41SzDLQs3M0/s1600/Tim+Berners-Lee.jpg?ezimgfmt=rs:320x320/rscb1/ng:webp/ngcb1",
+        "salary": 15000,
+        "designation": "Computer scientist",
+        "age": 60
+    },
+    {
+        "id": "614f59h52sr5r12fa0a391a8712eca4",
+        "index": 6,
+        "name": "Brian Kernighan",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/2.bp.blogspot.com/-vjmojesfTK0/UwjkPF_nLLI/AAAAAAAACHY/7cTOimc_e5g/s1600/Brian+Kernighan.jpg?ezimgfmt=rs:400x266/rscb1/ng:webp/ngcb1",
+        "creator": "C programming language with Dennis Ritchie",
+        "salary": 1200,
+        "designation": "Computer scientist",
+        "age": 48
+    },
+    {
+        "id": "614f59sdf54r12fa0a391a8712eca4",
+        "index": 7,
+        "name": "Ken Thompson",
+        "creator": " B programming language",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-Zznu7fM9g30/UwjkeqBlcjI/AAAAAAAACHo/EHhf0RF-nF8/s1600/Ken+Thompson.jpg?ezimgfmt=rs:320x316/rscb1/ng:webp/ngcb1",
+        "salary": 1100,
+        "designation": "Computer scientist",
+        "age": 40
+    },
+    {
+        "id": "614f42wf5912fa0a391a8712eca4",
+        "index": 8,
+        "name": ". Guido van Rossum",
+        "creator": "Python programming language",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/4.bp.blogspot.com/-EtgZqoZX2dE/Uwjk3qbwbBI/AAAAAAAACH4/8vJw4USybms/s1600/Guido+van+Rossum.jpg?ezimgfmt=rs:296x400/rscb1/ng:webp/ngcb1",
+        "salary": 1600,
+        "designation": "Computer scientist",
+        "age": 35
+    },
+    {
+        "id": "614ffa55912fa0a391a8712eca4",
+        "index": 9,
+        "name": "Donald Knuth",
+        "creator": "C Programming",
+        "img": "https://www.thecrazyprogrammer.com/ezoimgfmt/1.bp.blogspot.com/-S_87vSTDN60/UwjkX9yyl4I/AAAAAAAACHg/FImj-V0oPHE/s1600/Donald+Kuth.jpg?ezimgfmt=rs:337x400/rscb1/ng:webp/ngcb1",
+        "salary": 1600,
+        "designation": "Computer Scientist",
+        "age": 48
+    },
+    {
+        "id": "614f5912f8t5fa0a391a8712eca4",
+        "index": 10,
+        "name": "David Patterson",
+        "creator": "Reduced Instruction Set Computer",
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/David-Patterson.jpg?w=700&ssl=1",
+        "salary": 9000,
+        "designation": "Computer scientist",
+        "age": 66
+    },
+    {
+        "id": "6dsa5414f5912fa0a391a8712eca4",
+        "index": 11,
+        "name": "John Carmack",
+        "creator": "Doom,Rage Game",
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Carmack.jpg?w=700&ssl=1",
+        "salary": 5000,
+        "designation": "game developer",
+        "age": 50
+    },
+    {
+        "id": "614f5912fa0a3rq91a8712eca4",
+        "index": 12,
+        "name": "Niklaus Wirth",
+        "creator": "Numerous programming languages",
+        "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Niklaus-Wirth.jpg?w=700&ssl=1",
+        "salary": 2000,
+        "designation": "Computer scientist",
+        "age": 66
+    },
+    {
+        "id": "614f5912fa0a391a87o12eca4",
+        "index": 13,
+        "name": "Alan Curtis Kay",
+        "creator": "Object-oriented programming and windowing Graphical User Interface (GUI) ",
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/Alan-Curtis-Kay.jpg?w=700&ssl=1",
+        "salary": 1350,
+        "designation": "Computer scientist",
+        "age": 44
+    },
+    {
+        "id": "614ffq5912fa0a391a8712eca4",
+        "index": 14,
+        "name": "John McCarthy",
+        "creator": "ALGOL programming language",
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-McCarthy.jpg?w=700&ssl=1",
+        "salary": 1120,
+        "designation": "Computer scientist",
+        "age": 40
+    },
+    {
+        "id": "614f5912fa0a3rq91a8712eca4",
+        "index": 15,
+        "name": "Thomas Eugene Kurtz",
+        "creator": "BASIC programming language",
+        "img": "https://i1.wp.com/www.rankred.com/wp-content/uploads/2019/07/Thomas-Eugene-Kurtz.jpg?w=700&ssl=1",
+        "salary": 1500,
+        "designation": "Computer scientist",
+        "age": 66
+    },
+    {
+        "id": "614f5912fa0a391a8712eca4",
+        "index": 16,
+        "name": " John George Kemeny",
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-George-Kemeny.jpg?w=700&ssl=1",
+        "creator": " BASIC programming language with Thomas Kurtz.",
+        "salary": 1200,
+        "designation": "Computer scientist",
+        "age": 60
+    },
+    {
+        "id": "614f591fa2fa0a391a8712eca4",
+        "index": 17,
+        "name": "Grace Hopper",
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Grace-Hopper.jpg?w=700&ssl=1",
+        "creator": "COBOL Programming Language",
+        "salary": 1500,
+        "designation": "Computer scientist",
+        "age": 60
+    },
+    {
+        "id": "614daf5912far0a391fa8712eca4",
+        "index": 18,
+        "name": "John Backus",
+        "creator": "FORTRAN Programming language",
+        "img": "https://i2.wp.com/www.rankred.com/wp-content/uploads/2019/07/John-Backus.jpg?w=700&ssl=1",
+        "salary": 1500,
+        "designation": "Computer scientist",
+        "age": 77
+    },
+    {
+        "id": "614f591fa2fa0a391a8712eca4",
+        "index": 19,
+        "name": "Bill Gates",
+        "img": "https://i0.wp.com/www.rankred.com/wp-content/uploads/2019/07/Bill-Gates.jpg?w=700&ssl=1",
+        "creator": "Founder at Microsoft",
+        "salary": 20000,
+        "designation": "Computer scientist",
+        "age": 75
+    }
+]

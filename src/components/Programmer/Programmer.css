@@ -1,0 +1,87 @@
+.programmer-grid {
+    background-color: #fff;
+}
+
+.image-cont img {
+    width: 145px;
+    height: 145px;
+    border-radius: 50%;
+    border: 1px solid #e7467f;
+    object-fit: cover;
+}
+
+.image-cont {
+    text-align: center;
+}
+
+.programmer-items {
+    padding: 15px;
+}
+
+#name {
+    font-size: 25px;
+    text-align: center;
+    color: #111111;
+    text-transform: capitalize;
+    margin-top: 8px;
+}
+
+#designation {
+    text-align: center;
+    color: #111111;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+#creator {
+    text-align: center;
+    color: #111111;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+
+#creator span {
+    color: #e7467f;
+    text-transform: capitalize;
+}
+
+#salary {
+    text-align: center;
+    color: #111111;
+    font-size: 18px;
+}
+
+#icon li {
+    list-style: none;
+    display: inline-block;
+}
+
+#icon li a {
+    text-decoration: none;
+    padding: 10px;
+    color: #111111;
+    display: inline-block;
+    font-size: 18px;
+    ;
+}
+
+#icon {
+    text-align: center;
+}
+
+.programmer-items button {
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    background-color: #5071f2;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.programmer-items button:hover {
+    background-color: #839af6;
+}
